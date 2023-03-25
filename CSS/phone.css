@@ -1,0 +1,73 @@
+/* our service */
+#Box3{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* our sponsor */
+#Box5 {
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+
+/* navbar */
+.navbar {
+    flex-direction: column;
+} 
+
+nav img {
+    display: flex;
+    margin: auto;
+}
+
+nav ul li {
+    font-size: 0.8rem;
+    flex-wrap: wrap;
+
+}
+
+
+nav ul li a {
+    padding: 19px 20px;
+    text-decoration: double;
+    color: rgb(15, 1, 1);
+    
+}
+
+nav ul {
+    flex-wrap: wrap;
+}
+nav ul li a {
+    padding: 9px 10px;
+    
+    color: rgb(15, 1, 1);
+    
+}
+
+/* Welcome text */
+#Box1 h1,p{
+    
+    flex-direction: column;
+    
+}
+#Box1 h1 {
+    font-size: 1.5rem;
+    margin: 180px auto auto 0px;
+}
+#Box1 p {
+    font-size: 0.8rem;
+}
+
+#Box1 {
+    margin: 0px auto;
+}
+
+nav ul li {
+    font-size: 1.3rem;
+    list-style: none;
+
+}
+#Box7 form {
+    width: 40%;
+}
